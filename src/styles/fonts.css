@@ -1,0 +1,12 @@
+/* Import custom fonts */
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap");
+
+/* Custom font styles */
+.font-zilla-slab {
+  font-family: "Zilla Slab", serif;
+}
+
+/* Fallback for New York font */
+.font-new-york {
+  font-family: "New York", Georgia, serif;
+}
